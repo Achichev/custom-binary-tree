@@ -1,4 +1,4 @@
-package com.javarush.task.task20.task2028;
+package custom_binary_tree;
 
 import java.util.List;
 
